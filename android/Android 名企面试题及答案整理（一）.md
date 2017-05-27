@@ -151,7 +151,7 @@ D、可以直接从内存或者DMA等硬件接口取得图像数据
 
 	HashMap是Hashtable的轻量级实现（非线程安全的实现），他们都完成了Map接口，主要区别在于HashMap允许空（null）键值（key）,由于非线程安全，效率上可能高于Hashtable。HashMap允许将null作为一个entry的key或者value，而Hashtable不允许。
 
- - 下面退出Activity错误的方法是(c)
+ - 下面退出Activity错误的方法是(d)
 
 	  A、finish()
 B、抛异常强制退出
